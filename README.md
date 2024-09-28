@@ -53,6 +53,8 @@ Otherwise, maybe try a diff one, like Strapi.
 And also try hosting it on GitHub?
 Like, "export" or "build" a read-only static version, and host that on GitHub.
 
+This might be helpful: https://strapi.io/blog/how-i-hosted-my-strapi-cms-driven-website-for-free
+
 ---
 
 Unrelated note:    
